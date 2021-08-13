@@ -35,7 +35,7 @@ let fruitSlowDown = 2;
 let clickChangeFruit = true;
 
 // 广告链接：false 或为空字符串表示不会跳转到广告
-let adLink = '';
+let adLink = 'https://space.bilibili.com/1870943';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
 document.getElementsByTagName("title")[0].innerText = '合成猎杀者';
